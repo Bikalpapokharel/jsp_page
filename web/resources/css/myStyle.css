@@ -1,0 +1,71 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* s
+    Created on : Dec 21, 2015, 9:40:58 AM
+    Author     : sani
+*/
+
+.container{
+    width:100%;
+    
+    background-color:#EDEDED;
+    margin-top: 1%;
+    margin-bottom: 10%
+    
+}
+.header{
+    height: 60px;
+}
+body {
+    font-weight: lighter;
+    background-color: whitesmoke;
+    
+}
+
+.searchtab{
+    height: 40px;
+    background-color: #337ab7;
+    padding-left: 5px;
+    padding-top: 3px;
+    font-size: 20px;
+    font-family: Bitstream Charter;
+   
+    
+}
+.displaytab{
+    height: 400px;
+    background-color: whitesmoke;
+    margin-top : 2px;
+    padding-top:  20px;
+    padding-left: 10px;
+}
+
+.technologytab{
+    height: 350px;
+    background-color: whitesmoke;
+    
+    
+    /*font-weight: 300;*/
+}
+
+.category{
+    height: 350px;
+    background-color: whitesmoke;
+    font-family: monospace;
+}
+
+.latestTech{
+    height: 500px;
+    background-color: #777;
+    padding-left: 15px;
+}
+
+#tablehead{
+    background: white;
+    font: bolder;
+    font-style: oblique;
+}
+
