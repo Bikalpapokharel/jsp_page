@@ -9,7 +9,7 @@ and open the template in the editor.
 */
 
 .container{
-    width:100%;
+    width:95%;
     
     background-color:#EDEDED;
     margin-top: 1%;
@@ -25,6 +25,17 @@ body {
     
 }
 
+.carousel-inner > .item > img,
+       .carousel-inner > .item > a > img {
+        width: 80%;
+        margin: auto;
+        background-color: lightgrey;
+        min-height: 350px;
+        max-height: 350px;
+
+      }
+      
+
 .searchtab{
     height: 40px;
     background-color: #337ab7;
@@ -39,6 +50,7 @@ body {
     height: 400px;
     background-color: whitesmoke;
     margin-top : 2px;
+    margin-bottom: 5px;
     padding-top:  20px;
     padding-left: 10px;
 }
@@ -46,6 +58,7 @@ body {
 .technologytab{
     height: 350px;
     background-color: whitesmoke;
+    
     
     
     /*font-weight: 300;*/
