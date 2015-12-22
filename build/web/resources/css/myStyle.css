@@ -9,29 +9,37 @@ and open the template in the editor.
 */
 
 .container{
-    width:95%;
+    width:90%;
     
-    background-color:#EDEDED;
-    margin-top: 1%;
-    margin-bottom: 10%
+    background-color:lightsteelblue;
+    margin-top: 5px;
+    margin-bottom: 5%
     
 }
 .header{
     height: 60px;
 }
+
+h1{
+    /*background-color: whitesmoke;*/
+    font-family: URW Chancery L;
+    font-style: oblique;
+    /*color: #122b40;*/
+    
+}
 body {
     font-weight: lighter;
-    background-color: whitesmoke;
+    background-color: lightsteelblue;
     
 }
 
 .carousel-inner > .item > img,
        .carousel-inner > .item > a > img {
-        width: 80%;
-        margin: auto;
-        background-color: lightgrey;
-        min-height: 350px;
-        max-height: 350px;
+        width: 100%;
+        /*margin: auto;*/
+        background-color: #8c8c8c;
+        min-height: 360px;
+        max-height: 360px;
 
       }
       
@@ -39,7 +47,7 @@ body {
 .searchtab{
     height: 40px;
     background-color: #337ab7;
-    padding-left: 5px;
+    /*padding-left: 5px;*/
     padding-top: 3px;
     font-size: 20px;
     font-family: Bitstream Charter;
@@ -47,33 +55,37 @@ body {
     
 }
 .displaytab{
-    height: 400px;
+    height: 410px;
     background-color: whitesmoke;
     margin-top : 2px;
-    margin-bottom: 5px;
-    padding-top:  20px;
-    padding-left: 10px;
+    margin-bottom: 30px;
+    padding-top:  40px;
+    /*padding-left: 10px;*/
 }
 
 .technologytab{
-    height: 350px;
+    height: 360px;
     background-color: whitesmoke;
-    
-    
-    
-    /*font-weight: 300;*/
+    padding-left: 10px;
+    padding-right: 30px;
+     /*font-weight: 300;*/
 }
 
 .category{
     height: 350px;
     background-color: whitesmoke;
     font-family: monospace;
+    padding-top: 10px;
+    padding-left: 10px;
 }
 
 .latestTech{
     height: 500px;
-    background-color: #777;
-    padding-left: 15px;
+    background-color: #000\9;
+    margin-top: 50px;
+    padding-top: 5px;
+    padding-left: 25px;
+    background-color: whitesmoke;
 }
 
 #tablehead{

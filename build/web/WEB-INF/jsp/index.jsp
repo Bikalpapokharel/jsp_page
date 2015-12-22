@@ -37,7 +37,7 @@
             </div>
 
             <div class="displaytab">
-                <div class="col-md-9">
+                <div class="col-md-8">
                     <div class="technologytab">
                         <div id="myCarousel" class="carousel slide" data-ride="carousel">
                             <!-- Indicators -->
@@ -69,18 +69,18 @@
 
                             <!-- Left and right controls -->
                             <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-                                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                                <span class="sr-only">Previous</span>
+<!--                                <span class="glyphicon glyphicon-chevron-left" aria-hidden="false"></span>
+                                <span class="sr-only">Previous</span>-->
                             </a>
                             <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-                                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                                <span class="sr-only">Next</span>
+<!--                                <span class="glyphicon glyphicon-chevron-right" aria-hidden="false"></span>
+                                <span class="sr-only">Next</span>-->
                             </a>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-md-3">
+                <div class="col-md-4">
                     <div class="category">
                         <table class="table table-hover">
                             <thead id="tablehead">
