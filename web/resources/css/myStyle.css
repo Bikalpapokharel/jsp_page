@@ -19,6 +19,14 @@ and open the template in the editor.
 .header{
     height: 60px;
 }
+
+h1{
+    background-color: #EDEDED;
+    font-family: URW Chancery L;
+    font-style: oblique;
+    color: #122b40;
+    
+}
 body {
     font-weight: lighter;
     background-color: whitesmoke;
@@ -58,10 +66,7 @@ body {
 .technologytab{
     height: 350px;
     background-color: whitesmoke;
-    
-    
-    
-    /*font-weight: 300;*/
+     /*font-weight: 300;*/
 }
 
 .category{
@@ -72,8 +77,9 @@ body {
 
 .latestTech{
     height: 500px;
-    background-color: #777;
-    padding-left: 15px;
+    background-color: #000\9;
+    padding-top: 10px;
+    padding-left: 25px;
 }
 
 #tablehead{

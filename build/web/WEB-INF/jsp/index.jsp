@@ -100,7 +100,7 @@
             </div>
 
             <div class="latestTech">
-
+                <h1> See what's new !! </h1>
             </div>
         </div>
     </body>
